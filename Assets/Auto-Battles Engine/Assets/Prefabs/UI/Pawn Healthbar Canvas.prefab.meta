@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb2eb8732acdba44a93b0a5393b7b942
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/UI/Pawn Healthbar Canvas.prefab
+  uploadId: 721947

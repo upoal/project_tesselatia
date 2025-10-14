@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e30848770801834299020d23eae9f78
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Pawns (No Animations)/Mace/Mace
+    - 3 Star.prefab
+  uploadId: 721947

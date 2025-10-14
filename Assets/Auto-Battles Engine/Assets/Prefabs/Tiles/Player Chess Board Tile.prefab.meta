@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 782b9802ab910a24f9f429928e596f5c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Tiles/Player Chess Board Tile.prefab
+  uploadId: 721947

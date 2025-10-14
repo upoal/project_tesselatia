@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4dc5df3010b070448b2bd88519f41fce
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Pawns (No Animations)/Commander/Commander
+    - 2 Star.prefab
+  uploadId: 721947

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8f7323bca18209240ac2f62096d66cd5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Scripts/Pawn Scripts/Projectile.cs
+  uploadId: 721947

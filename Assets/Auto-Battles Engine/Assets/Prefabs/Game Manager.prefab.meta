@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 09963fd6785c5374a9d78753e63a698d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Game Manager.prefab
+  uploadId: 721947

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: edd92459bdf27544e9af7a273220e214
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Scripts/Chess Board Tiles/PlayerChessBoardTile.cs
+  uploadId: 721947

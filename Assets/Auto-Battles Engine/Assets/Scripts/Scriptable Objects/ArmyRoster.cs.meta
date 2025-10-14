@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ec9b5f16c27be9a48b31b111749d43c9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Scripts/Scriptable Objects/ArmyRoster.cs
+  uploadId: 721947

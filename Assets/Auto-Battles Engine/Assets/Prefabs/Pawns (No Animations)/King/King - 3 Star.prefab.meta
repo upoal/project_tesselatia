@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2c9dedb692ccf44d9d43834460d72c1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Pawns (No Animations)/King/King
+    - 3 Star.prefab
+  uploadId: 721947

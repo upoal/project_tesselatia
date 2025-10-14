@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4c3f8f14a008e85458ac6287efa9cc88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Scripts/Scriptable Objects/PawnStats.cs
+  uploadId: 721947

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c89a025f395c72e4488ed18d01f5c8b0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/UI/Health Bars/1 Star Pawn
+    Health Bar.prefab
+  uploadId: 721947

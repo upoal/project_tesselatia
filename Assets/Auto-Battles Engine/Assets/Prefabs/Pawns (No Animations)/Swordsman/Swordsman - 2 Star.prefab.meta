@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1932c76c68faaec46b5e23539a15c0a0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Pawns (No Animations)/Swordsman/Swordsman
+    - 2 Star.prefab
+  uploadId: 721947

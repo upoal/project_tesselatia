@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7e0252341c5f6445ada138a1443fe6e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Pawns (No Animations)/Crossbow/Crossbow
+    - 3 Star.prefab
+  uploadId: 721947

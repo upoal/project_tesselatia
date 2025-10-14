@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d955fd13c3395cc41835710cefa076e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 160472
+  packageName: Auto-Battles Engine
+  packageVersion: 1.0.2
+  assetPath: Assets/Auto-Battles Engine/Assets/Prefabs/Pawns (No Animations)/Teeny/Teeny
+    - 3 Star.prefab
+  uploadId: 721947
