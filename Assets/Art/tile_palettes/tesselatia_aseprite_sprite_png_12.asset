@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Map
+  m_Name: tesselatia_aseprite_sprite_png_12
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: -1722728152215080946, guid: 6b4edec473c8b0b49b823536a57adb50, type: 3}
+  m_Sprite: {fileID: -1319004056, guid: abd6ec063b89a794fa63a22dca344ba3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
